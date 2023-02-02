@@ -1,5 +1,5 @@
 # SPIDE-FSNN
-This is the PyTorch implementation of paper "SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks" **(Neural Networks, 2023)**. [link](https://doi.org/10.1016/j.neunet.2023.01.026)
+This is the PyTorch implementation of paper "SPIDE: A Purely Spike-based Method for Training Feedback Spiking Neural Networks" **(Neural Networks, 2023)**. [[link]](https://doi.org/10.1016/j.neunet.2023.01.026) [[arxiv]](https://arxiv.org/abs/2302.00232)
 
 ## Dependencies and Installation
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
